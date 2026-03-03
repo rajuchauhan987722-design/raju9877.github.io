@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #1DB954;
+}
+
+a {
+    color: #1DB954;
+    text-decoration: none;
+}
